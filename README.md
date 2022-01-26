@@ -1,5 +1,6 @@
-# Eddie
+# **Eddie**
 Hello World
+| ---
 # Goal for 2022:
 -Earn at least one brown prize on Kaggle\n
 -Complete ROS2 cousre on Udemy\n
@@ -11,3 +12,4 @@ Hello World
 
 1. book read per month
 2. names of the books read
+3. Have fun.
